@@ -20,5 +20,5 @@ Utiliza o auxúlio do Algorithmia para utilização da api de colorização.
       caio@pc:pip install dotenv
       ```
  
-- Caso não vá usar .env
+- Caso não vá usar .env     
   Coloque sua key do algorithmia na variável ALGORITHMIA_KEY
