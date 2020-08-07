@@ -21,4 +21,4 @@ Utiliza o auxúlio do Algorithmia para utilização da api de colorização.
       ```
  
 - Caso não vá usar .env     
-  Coloque sua key do algorithmia na variável ALGORITHMIA_KEY
+     Coloque sua key do algorithmia na variável ALGORITHMIA_KEY
